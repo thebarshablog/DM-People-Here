@@ -1,5 +1,5 @@
-Let anyone DIRECT MESSAGE on GitHub:
-
 Message Me: https://github.com/thebarshablog/Message-me/issues/new
 
-P.S: The direct messages someone sends you are PUBLIC!
+P.S: The direct messages you send me are PUBLIC!
+
+**NOTE**: You're free to fork this repository, replace my username with yours, include on your profile and let people direct message you. 
