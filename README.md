@@ -1,4 +1,4 @@
-Message Me: https://github.com/thebarshablog/Message-me/issues/new
+Message Me: https://github.com/thebarshablog/DM-People-Here/issues/new
 
 P.S: The direct messages you send me are PUBLIC!
 
